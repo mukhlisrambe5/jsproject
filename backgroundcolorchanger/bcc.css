@@ -1,0 +1,17 @@
+p{
+    position: absolute;
+    top: 43%;  
+    margin-left: 45%;
+}
+button{
+    padding: 10px;
+    color: #000;
+    background-color: white;
+    font-size: 16px;
+    border: solid 1px black;
+    position: absolute;
+    top: 50%;
+    margin-left: 45%;
+    cursor: pointer;
+    
+}

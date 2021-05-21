@@ -1,0 +1,25 @@
+.container{
+    width: 70%;
+    height: 400px;
+    margin: auto;
+    margin-top: 100px;
+    border: 10px solid cyan;
+    border-radius: 10px;
+    background-image: url('pict1.jpg');
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+
+button{
+    background-color: blue;
+    border-radius: 20px;
+    padding: 5px;
+    position: relative;
+    object-position: center;
+    width: 10%;
+    left: 40%;
+    margin-top: 1rem;
+    cursor: pointer;
+}

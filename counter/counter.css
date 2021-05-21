@@ -1,0 +1,35 @@
+body{
+    background-image: url("https://i.pinimg.com/736x/7b/41/49/7b4149f6a9ec24276fb299e75df6c3c7.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 50%;
+    min-width: 400px;
+    height: 400px;
+    margin: auto;
+    margin-top: 100px;
+    border: 2px solid whitesmoke;
+    box-shadow: 1px 2px  black;
+}
+#counter{
+    font-size:50px;
+    text-align: center;
+    margin-top: 50px;
+    color:#ffffff;
+}
+#num{
+    font-size: 150px;
+    text-align: center;
+    margin-top: -10px;
+    margin-bottom: 0px;
+}
+button{
+    color: whitesmoke;
+    background-color: blue;
+    font-size: 14px;
+    padding: 8px;
+    border-radius: 5px;
+    position: relative;
+    width: 40%;
+    left: 10%;
+    cursor: pointer;
+}

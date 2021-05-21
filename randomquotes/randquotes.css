@@ -1,0 +1,44 @@
+body{
+    background-color: #b09e99;
+}
+h1{
+    text-align: center;
+}
+.container{
+    background-color: #d8cfcc;
+    width: 50%;
+    min-width: 470px;
+    min-height: 300px;
+    margin: auto;
+    margin-top: 75px;
+}
+
+#quote{
+    padding: 15px;
+    background-color: #64b6ac;
+    width: 50%;
+    position:relative; 
+    left: 25%;
+    font-size: 20px;
+    color: white 2px 2px;
+    border: none;
+    box-shadow: 1px 1px black;
+}
+
+#quoteText{
+    font-family: Courgette;
+    font-size: 28px;
+    text-align: center;
+    font-weight: bold;
+    padding-right: 8px;
+    padding-left: 8px;
+    color:darkolivegreen;
+    }
+
+#author{
+    text-align: right;
+    margin-right: 25px;
+    font-size: 20px;
+    color:darkcyan;
+    padding-bottom: 20px;
+}

@@ -1,0 +1,71 @@
+body{
+    background-image: url("bg3.jpg");
+    background-size: cover;
+    background-repeat: none;
+    background-position: center;
+}
+
+#client{
+    text-align: center;
+    margin-top: 30pt;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: chocolate;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+#testi{
+    text-align: center;
+    margin-top: 10pt;
+    color: white;
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.pict{
+    width: 160px;
+    height: 110px;
+    margin: auto;
+    border: none;
+    border-radius: 100%;
+    background-image: url("people3.jpg");
+    background-size: cover;
+    position: relative;
+}
+.container{
+    margin-top: -50px;
+}
+.box{
+    width: 700px;
+    min-height: 300px;
+    margin: auto;
+    border: 1px solid white;
+}
+.name{
+    text-align: center;
+    margin-top: 90px;
+    color: white;
+    font-size: 30px;
+}
+.message{
+    text-align: center;
+    margin-top: 50px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+button{
+    background-color: transparent;
+    border-radius: 20px;
+    padding: 5px;
+    position: relative;
+    object-position: center;
+    width: 10%;
+    left: 40%;
+    margin-top: 1rem;
+    cursor: pointer;
+    color: yellow;
+    font-size: 30px;
+    border-radius: 100%;
+}
