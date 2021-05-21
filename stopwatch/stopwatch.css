@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+}
+
+.container{
+    background-color: orange;
+    position: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+    margin: auto;
+    margin-top: 200px;
+    min-width: 500px;
+    padding: 6px;
+}
+
+p{
+    color: white;
+    font-size: 32px;
+    text-align: center;
+}
+
+.buttons-container{
+    
+    display: block;
+    margin: auto;
+}
+
+button{
+    width: 20%;
+    margin: 10px;
+    padding: 10px;
+    margin-left: 9%;
+    background-color: orange;
+    color: white;
+    border: 1px solid white;
+    font-weight:bold;
+    margin-bottom: 20px;
+}
+
+.btn3{
+    display: flex;
+  align-items: center;
+  justify-content: center;
+}
